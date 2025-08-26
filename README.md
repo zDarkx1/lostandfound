@@ -64,13 +64,9 @@ Tujuannya untuk membantu pengguna melaporkan barang hilang atau ditemukan, serta
 
 ## 🚀 Tech Stack
 - **Backend**: PHP Native (PDO)  
-- **Frontend**: TailwindCSS + Bootstrap  
+- **Frontend**: TailwindCSS
 - **Database**: MySQL  
 - **Deployment**: Compatible with Apache/Nginx + PHP 8+  
 
 ---
 
-## 📌 Installation
-1. Clone repository:  
-   ```bash
-   git clone https://github.com/zDarkx1/lostandfound.git
